@@ -45,7 +45,7 @@ Features:
 
 Implementations:
 
-- [ttt-django15](http://github.com/web-dev-benchmarks-game/ttt-django15). A
+- [ttt_django15 (Django 1.5)](http://github.com/web-dev-benchmarks-game/ttt_django15). A
   pretty standard Django site, mostly contained in a "tictactoe"
   app. A separate "simplereg" app lets users register. Does some
   slickness in the "create game" page to reorder the user list to put
