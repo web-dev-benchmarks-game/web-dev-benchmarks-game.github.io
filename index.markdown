@@ -20,7 +20,11 @@ From the [history](http://benchmarksgame.alioth.debian.org/dont-jump-to-conclusi
 > various (possibly meaningless) ways, and most importantly, have some
 > fun.
 
-Unlike the original Benchmarks Game, our benchmarks are things like: lines of code, amount of time to build features, template language features, number of existing libraries, *et cetera*.
+Unlike the original Benchmarks Game, our benchmarks are things like:
+lines of code, amount of time to build features, template language
+features, number of existing libraries, *et cetera*. In fact,
+"Benchmarks Game" is a bad name for this project, which is really more
+about measuring "codeability" and not performance.
 
 So far:
 
