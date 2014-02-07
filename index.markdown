@@ -50,3 +50,10 @@ Implementations:
   app. A separate "simplereg" app lets users register. Does some
   slickness in the "create game" page to reorder the user list to put
   the current user first.
+
+- [ttt_yesod124 (Yesod
+  1.2.4)](https://github.com/web-dev-benchmarks-game/ttt_yesod124).
+  Yesod is one of the better-known Haskell web frameworks. Yesod comes
+  with out-of-the-box support for authentication using Gmail. All
+  parts of the website, including HTML/JS/CSS templates, are compiled
+  to leverage the type system as much as possible.
